@@ -7,7 +7,7 @@
     NSString* argPath = [command.arguments objectAtIndex:0];
     UIImage *img = nil;
     
-    if ([argPath hasPrefix:@"http"]) {
+    if ([argPath hasPrefix:@"http"] || [argPath hasPrefix:@"file"]) {
         NSURL *url = [NSURL URLWithString:argPath];
         NSData *data = [NSData dataWithContentsOfURL:url];
         img = [[UIImage alloc] initWithData:data];

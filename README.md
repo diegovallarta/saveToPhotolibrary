@@ -6,7 +6,9 @@ Fork from  https://github.com/mrPalm/saveToPhotolibrary
 
 ```
 cordova plugin add cordova-ios-photo-library
+
 ```
+Added support for file:// 
 
 ## Usage
 
