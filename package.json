@@ -1,6 +1,6 @@
 {
   "name": "ios-save-image",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Cordova Plugin for ios to save images in camera roll",
   "cordova": {
     "id": "ios-save-image",

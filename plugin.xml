@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="ios-save-image" version="0.2.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="ios-save-image" version="0.3.0">
     <name>ios-save-image</name>
     <author>phongjalvn</author>
     <description>Cordova iOS image helper library</description>
